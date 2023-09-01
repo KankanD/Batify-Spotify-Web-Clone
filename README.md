@@ -1,6 +1,6 @@
 # Batify Web (A Spotify Web Clone)
 
-Hey! I'm Kankan Dastidar, an IT Undergrad and a Full-Stack Enthusiast. This is one of my personal projects that I've created and that's what I want to showcase in this repository.
+Hey! I'm Kankan Dastidar, an IT Undergrad and a Full-Stack Enthusiast. This is one of my personal projects, a landing page clone of the already familiar Spotify Web with a nice ring to it "Batify". In this repository, I want to showcase exactly what I did while working on this project.
 
 ## Why a static website?
 
@@ -8,7 +8,7 @@ One of the major reasons for creating a static website:
 
 - Learning and Experimenting
 - Putting the acquired knowledge to test
-- Having fun while working on the project
+- Enjoying while working on a project
 
 ## Where this clone project stands out?
 
