@@ -19,7 +19,7 @@ I wanted to add my own elememts into the project and not simply clone the existi
 - HTML and CSS
 - Fonts and Icon pack from https://fonts.google.com/ and https://fontawesome.com/
 - Images from https://in.pinterest.com/
-- Favicon and the logo is custom designed using Canva Open Source
+- Favicon and the logo is custom designed using Canva, a proprietory graphic design software.
 
 You can check out the logo @ https://www.canva.com/design/DAFoWsTQra4/8pvzcwA5cak-1tP4p4i6Rw/edit?utm_content=DAFoWsTQra4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
